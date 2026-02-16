@@ -1,20 +1,20 @@
 # CRUD-
+
 Este é o meu primeiro CRUD feito em C# usando o MySQL Workbench.
 
+O propósito para que fiz este projeto foi para testar minhas habilidades e aprender novas habilidades.
 
-O propósito para que fiz este projeto foi para testar minhas habilidades e aprender novas habilidades. 
+Este projeto foi feito em C# usando o Visual Studio 2022 e WindowsForms com o banco de dados MySQL Workbench.
 
-Este projeto foi feito em C# usando o Visual Studio 2022 e WindowsForms com o banco de dados MySQL Workbench. 
-
-O projeto se trata de um programa feito para cadastrar funcionários, útil para empresas, mas é um template muito versátil, serve para qualquer área como: 
+O projeto se trata de um programa feito para cadastrar funcionários, útil para empresas, mas é um template muito versátil, serve para qualquer área como:
 
 - Cadastrar um veículo em um estacionamento.
-- Cadastrar espectadores de um evento. 
-- Cadastrar um paciente em uma clínica. 
+- Cadastrar espectadores de um evento.
+- Cadastrar um paciente em uma clínica.
 
 Além das utilidades citadas acima, existem diversas outras áreas e ocasiões em que esse programa pode ser utilizado.
 
-O programa contém uma interface simples e objetiva, com apenas uma label e com 5 botões e 4 campos para ser preenchidos. 
+O programa contém uma interface simples e objetiva, com apenas uma label e com 5 botões e 4 campos para ser preenchidos.
 
 Os botões sendo:
 
@@ -24,12 +24,12 @@ Os botões sendo:
 - 4 Atualizar: Permite a atualização de um funcionário, selecionado através da busca pelo CPF.
 - 5 Deletar: Deleta um funcionário do banco de dados.
 
-Os campos a serem preenchidos sendo: 
+Os campos a serem preenchidos sendo:
 
 - Nome
 - Email
 - CPF
-- Endereço 
+- Endereço
 
 A label sendo:
 
@@ -37,7 +37,4 @@ A label sendo:
 
 Após as interações do usuário com o programa, é mostrado uma mensagem (MessageBox) para mostrar ao usuário o que está acontecendo.
 
-Contudo, este é o meu programa feito em C# e WindowsForms, usando o banco de dados MySQL Workbench, mesmo sendo algo muito básico, eu gostei bastante de produzir esse projeto, pois é o meu primeiro projeto CRUD. 
-
-
-
+Contudo, este é o meu programa feito em C# e WindowsForms, usando o banco de dados MySQL Workbench, mesmo sendo algo muito básico, eu gostei bastante de produzir esse projeto, pois é o meu primeiro projeto CRUD.
